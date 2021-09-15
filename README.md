@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **iavaquilar@gmail.com**
 
-- ⚡ Fun fact **I enjoy learning, traveling, trains, making and eating bread.**
+- ⚡ Fun fact **I enjoy learning, historical fictions, traveling, trains, making and eating bread.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
