@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ia</h1>
-<h3 align="center">a recent Data Science graduate from Le Wagon London. Most of my projects so far stem from the course. I'm currently working on improving the projects I've worked on, and keeping myself up-to-date through lectures and further lessons on Coursera. In the near future I hope to tackle some challenges on Kaggle.</h3>
+<h3 align="center">A recent Data Science graduate from Le Wagon London. Most of my projects so far stem from the course. I'm currently working on improving the projects I've worked on, and keeping myself up-to-date through lectures and further lessons on Coursera. In the near future I hope to tackle some challenges on Kaggle.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iavaq&label=Profile%20views&color=0e75b6&style=flat" alt="iavaq" /> </p>
 
