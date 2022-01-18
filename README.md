@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iavaq" alt="iavaq" /></a> </p>
 
-- 🌱 I’m currently learning *IBM Data Engineering (Coursera)**
+- 🌱 I’m currently learning **IBM Data Engineering (Coursera)**
 
 - 👯 I’m looking to collaborate on **Kaggle challenges**
 
