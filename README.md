@@ -13,11 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/iavaq](https://github.com/iavaq)
 
-- 💬 Ask me about **Le Wagon Data Science bootcamp**
-
-- 📫 How to reach me **iavaquilar@gmail.com**
-
-- ⚡ Fun fact **I enjoy learning, historical fictions, traveling, trains, making and eating bread.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
