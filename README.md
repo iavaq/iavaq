@@ -1,18 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ia</h1>
-<h3 align="center">A recent Data Science graduate from Le Wagon London. Most of my projects so far stem from the course. I'm currently working on improving the projects I've worked on, and keeping myself up-to-date through lectures and further lessons on Coursera. In the near future I hope to tackle some challenges on Kaggle.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iavaq&label=Profile%20views&color=0e75b6&style=flat" alt="iavaq" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iavaq" alt="iavaq" /></a> </p>
-
-- 🌱 I’m currently learning **IBM Data Engineering (Coursera)**
-
-- 👯 I’m looking to collaborate on **Kaggle challenges**
-
-- 🤝 I’m looking for help with **getting my foot in data workforce in the UK!**
-
-- 👨‍💻 All of my projects are available at [https://github.com/iavaq](https://github.com/iavaq)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
